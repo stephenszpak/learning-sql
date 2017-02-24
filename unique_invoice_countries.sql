@@ -1,0 +1,1 @@
+SELECT BillingCountry AS "Invoice Country of Origin" FROM Invoice
